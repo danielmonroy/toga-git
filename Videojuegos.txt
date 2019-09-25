@@ -2,5 +2,5 @@ FIFA
 Madden
 SpiderMan
 MarioKart
-Super Smash
-Contra
+StreetFighter
+CallofDuty
