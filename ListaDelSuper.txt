@@ -4,3 +4,5 @@
 shampoo
 cervezas
 agua
+botanas
+chicles
