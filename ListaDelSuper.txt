@@ -6,3 +6,6 @@ cervezas
 agua
 botanas
 chicles
+pelota
+3 refrescos
+1 vino
