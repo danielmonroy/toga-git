@@ -1,6 +1,3 @@
-FIFA
-Madden
-SpiderMan
-MarioKart
 StreetFighter
 CallofDuty
+Pacman
